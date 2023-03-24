@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "decoder"]
+	path = decoder
+	url = https://github.com/cran/decoder
+	shallow = true
+	registered = true
