@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "commentr"]
-	path = commentr
-	url = https://bitbucket.org/cancercentrum/commentr
 [submodule "decoder"]
 	path = decoder
 	url = https://github.com/cran/decoder
