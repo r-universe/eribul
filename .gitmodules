@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "decoder"]
 	path = decoder
-	url = https://github.com/cran/decoder
+	url = https://github.com/eribul/decoder
